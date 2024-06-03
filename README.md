@@ -11,7 +11,7 @@ Set of front-end tools for Magento 2
 ## Installation
 1. Run `composer require creaminternet/frontools`
 2. Go to package directory `cd vendor/creaminternet/frontools`
-3. Run `yarn` or `npm install`
+3. Run `yarn`
 4. Decide where you want to keep your config files.
 You can store them in Frontools `config` directory or in `dev/tools/frontools/config` (recommended).
 There is a `setup` task to copy all sample config files from the `config` to `dev/tools/frontools/config` and create a convenient symlink `tools` in the project root.
