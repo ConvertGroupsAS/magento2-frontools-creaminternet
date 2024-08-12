@@ -1721,7 +1721,7 @@ boolbase@^1.0.0:
 
 bower@^1.3.12:
   version "1.8.14"
-  resolved "https://registry.yarnpkg.com/bower/-/bower-1.8.14.tgz#985722a3c1fcd35c93d4136ecbeafbeaaea74e86"
+  resolved "https://registry.npmjs.org/bower/-/bower-1.8.14.tgz"
   integrity sha512-8Rq058FD91q9Nwthyhw0la9fzpBz0iwZTrt51LWl+w+PnJgZk9J+5wp3nibsJcIUPglMYXr4NRBaR+TUj0OkBQ==
 
 brace-expansion@^1.1.7:
@@ -1964,7 +1964,7 @@ cli-table3@^0.6.3:
 
 cli-width@^1.0.1:
   version "1.1.1"
-  resolved "https://registry.yarnpkg.com/cli-width/-/cli-width-1.1.1.tgz#a4d293ef67ebb7b88d4a4d42c0ccf00c4d1e366d"
+  resolved "https://registry.npmjs.org/cli-width/-/cli-width-1.1.1.tgz"
   integrity sha512-eMU2akIeEIkCxGXUNmDnJq1KzOIiPnJ+rKqRe6hcxE3vIOPvpMrBYOn/Bl7zNlYJj/zQxXquAnozHUCf9Whnsg==
 
 cli-width@^2.0.0:
@@ -2416,7 +2416,7 @@ deep-is@^0.1.3, deep-is@~0.1.3:
 
 deepmerge@^4.3.1:
   version "4.3.1"
-  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.3.1.tgz#44b5f2147cd3b00d4b56137685966f26fd25dd4a"
+  resolved "https://registry.npmjs.org/deepmerge/-/deepmerge-4.3.1.tgz"
   integrity sha512-3sUqbMEc77XqpdNO7FRyRog+eW3ph+GYCbj+rK+uYyRMuwsVy0rMiVtPn+QJlKFvWP/1PYpapqYn0Me2knFn+A==
 
 depd@~1.1.2:
@@ -3091,7 +3091,7 @@ file-entry-cache@^8.0.0:
 
 filesize@^10.1.2:
   version "10.1.2"
-  resolved "https://registry.yarnpkg.com/filesize/-/filesize-10.1.2.tgz#33bb71c5c134102499f1bc36e6f2863137f6cb0c"
+  resolved "https://registry.npmjs.org/filesize/-/filesize-10.1.2.tgz"
   integrity sha512-Dx770ai81ohflojxhU+oG+Z2QGvKdYxgEr9OSA8UVrqhwNHjfH9A8f5NKfg83fEH8ZFA5N5llJo5T3PIoZ4CRA==
 
 fill-range@^7.0.1:
@@ -3203,7 +3203,7 @@ for-own@^1.0.0:
 
 foreachasync@3.x:
   version "3.0.0"
-  resolved "https://registry.yarnpkg.com/foreachasync/-/foreachasync-3.0.0.tgz#5502987dc8714be3392097f32e0071c9dee07cf6"
+  resolved "https://registry.npmjs.org/foreachasync/-/foreachasync-3.0.0.tgz"
   integrity sha512-J+ler7Ta54FwwNcx6wQRDhTIbNeyDcARMkOcguEqnEdtm0jKvN3Li3PDAb2Du3ubJYEWfYL83XMROXdsXAXycw==
 
 fork-stream@^0.0.4:
@@ -3500,7 +3500,7 @@ gulp-babel@^8.0.0:
 
 gulp-bower@^0.0.15:
   version "0.0.15"
-  resolved "https://registry.yarnpkg.com/gulp-bower/-/gulp-bower-0.0.15.tgz#1f1f6c67a4550bb9d80789c22cca9be12baad7f2"
+  resolved "https://registry.npmjs.org/gulp-bower/-/gulp-bower-0.0.15.tgz"
   integrity sha512-D3YOsoy49d2s/msDRfSLSDMwSpS3Q/+pe1u14x8/zO95YSpvCGAWRX26YUj219xxbTO0CVvlsek1GuSwSv5Lpg==
   dependencies:
     ansi-colors "^1.0.1"
@@ -3918,7 +3918,7 @@ ini@^1.3.4, ini@^1.3.5:
 
 inquirer@^0.11.2:
   version "0.11.4"
-  resolved "https://registry.yarnpkg.com/inquirer/-/inquirer-0.11.4.tgz#81e3374e8361beaff2d97016206d359d0b32fa4d"
+  resolved "https://registry.npmjs.org/inquirer/-/inquirer-0.11.4.tgz"
   integrity sha512-QR+2TW90jnKk9LUUtbcA3yQXKt2rDEKMh6+BAZQIeumtzHexnwVLdPakSslGijXYLJCzFv7GMXbFCn0pA00EUw==
   dependencies:
     ansi-escapes "^1.1.0"
@@ -4533,7 +4533,7 @@ lodash.uniq@^4.5.0:
 
 lodash@^3.3.1:
   version "3.10.1"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.10.1.tgz#5bf45e8e49ba4189e17d482789dfd15bd140b7b6"
+  resolved "https://registry.npmjs.org/lodash/-/lodash-3.10.1.tgz"
   integrity sha512-9mDDwqVIma6OZX79ZlDACZl8sBm0TEnkf99zV3iMA4GzkIT/9hiqP5mY0HoT1iNLCrKc/R1HByV+yJfRWVJryQ==
 
 lodash@^4.0.0, lodash@^4.17.10, lodash@^4.17.14, lodash@^4.3.0, lodash@~4.17.10:
@@ -4627,7 +4627,7 @@ marked@^12.0.1:
 
 match-all@^1.2.6:
   version "1.2.6"
-  resolved "https://registry.yarnpkg.com/match-all/-/match-all-1.2.6.tgz#66d276ad6b49655551e63d3a6ee53e8be0566f8d"
+  resolved "https://registry.npmjs.org/match-all/-/match-all-1.2.6.tgz"
   integrity sha512-0EESkXiTkWzrQQntBu2uzKvLu6vVkUGz40nGPbSZuegcfE5UuSzNjLaIu76zJWuaT/2I3Z/8M06OlUOZLGwLlQ==
 
 mathml-tag-names@^2.1.3:
@@ -5670,7 +5670,7 @@ require-uncached@^1.0.2:
 
 requirejs@^2.3.6:
   version "2.3.6"
-  resolved "https://registry.yarnpkg.com/requirejs/-/requirejs-2.3.6.tgz#e5093d9601c2829251258c0b9445d4d19fa9e7c9"
+  resolved "https://registry.npmjs.org/requirejs/-/requirejs-2.3.6.tgz"
   integrity sha512-ipEzlWQe6RK3jkzikgCupiTbTvm4S0/CAU5GlgptkN5SO6F3u0UD0K18wy6ErDqiCyP4J4YYe1HuAShvsxePLg==
 
 requires-port@^1.0.0:
@@ -6455,7 +6455,7 @@ thenify-all@^1.0.0:
 
 through2@0.6.2:
   version "0.6.2"
-  resolved "https://registry.yarnpkg.com/through2/-/through2-0.6.2.tgz#53265824c555e7fcdc4111dcdc52c7de64636c75"
+  resolved "https://registry.npmjs.org/through2/-/through2-0.6.2.tgz"
   integrity sha512-I5mGo38sZXGVKSRiBN+yES3Je4LsJIJsk/obKUoJ9JOMzO4sz/qvkAsJbQUHi2fH2r+/I5bpae8XEyOfWxsIog==
   dependencies:
     readable-stream ">=1.0.28 <1.1.0-0"
@@ -6791,7 +6791,7 @@ vinyl@^3.0.0:
 
 walk@2.3.3:
   version "2.3.3"
-  resolved "https://registry.yarnpkg.com/walk/-/walk-2.3.3.tgz#b4c0e8c42464c16dbbe1d71666765eac07819e5f"
+  resolved "https://registry.npmjs.org/walk/-/walk-2.3.3.tgz"
   integrity sha512-eKpP8wx5Qbtl5zeuSpOpph75BIheAPDRie6k3RNvXkQJninwIqWI7x/tC2jqR2earxWjiI4jcKo/LgcYNju7IQ==
   dependencies:
     foreachasync "3.x"
