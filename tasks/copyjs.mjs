@@ -22,7 +22,7 @@ export const copyjs = async() => {
             const dest = projectPath + theme.dest + '/' + locale;
             const srcPaths = globbySync(src + '/bower_components/**/**/**.js', {
                 nodir: true,
-                ignore: '/**/node_modules/**'
+                ignore: ['/**/node_modules/**']
             });
 
             srcPaths.forEach(srcPath => {
